@@ -1,0 +1,7 @@
+url,outcome,status,final_url,fetched_at,sha256,bytes,content_type,title,description,h1,words,note,receipt,text_file
+https://example.com,thin,200,https://example.com/,2026-10-14T22:37:54Z,25ddf2c883e0d1958ea971d279a7e4f0fd446724ee3db7db19dadabd4a62e484,577,text/html,Example Domain,,,27,"only 171 visible characters: either a short page or one built by JavaScript, check the receipt",25ddf2c883e0d195.raw,25ddf2c883e0d195.txt
+https://httpbin.org/html,ok,200,https://httpbin.org/html,2026-10-14T22:37:54Z,3f324f9914742e62cf082861ba03b207282dba781c3349bee9d7c1b5ef8e0bfe,3741,text/html,,,Herman Melville - Moby-Dick,605,,3f324f9914742e62.raw,3f324f9914742e62.txt
+https://httpbin.org/status/403,blocked,403,https://httpbin.org/status/403,2026-10-14T22:37:58Z,e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855,0,text/html,,,,0,"HTTP 403, empty body",e3b0c44298fc1c14.raw,
+https://www.google.com/search?q=web+scraping,robots,,,2026-10-14T22:37:58Z,,0,,,,,0,"disallowed by robots.txt, not fetched",,
+https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf,not_html,200,https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf,2026-10-14T22:37:58Z,3df79d34abbca99308e79cb94461c1893582604d68329a41fd4bec1885e6adb4,13264,application/pdf,,,,0,saved as-is (application/pdf),3df79d34abbca993.raw,
+https://httpbin.org/status/404,error,404,https://httpbin.org/status/404,2026-10-14T22:37:59Z,e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855,0,text/html,,,,0,"HTTP 404, empty body",e3b0c44298fc1c14.raw,

@@ -1,0 +1,7 @@
+# public domain or trivial pages only, so the saved copies can be shared
+https://example.com
+https://httpbin.org/html
+https://httpbin.org/status/403
+https://www.google.com/search?q=web+scraping
+https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf
+https://httpbin.org/status/404
