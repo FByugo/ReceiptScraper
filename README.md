@@ -1,5 +1,7 @@
 # receipt-scraper
 
+![demo: a real run of the tool](docs/demo.gif)
+
 Give it a list of web pages. You get back a spreadsheet of what was on each one, and a saved copy of every page with a fingerprint, so anyone can check later that the data really came from that page.
 
 Most scrapers hand you a CSV and that's it. If a number looks wrong you can't tell where it came from. This one keeps the receipts.
